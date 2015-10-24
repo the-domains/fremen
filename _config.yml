@@ -1,26 +1,26 @@
-color:
-  saturation: 0.739276
-  brandStrength: 1
-  rhythmicContrast: 0.6052205
-  brandColors:
-    - '#22194B'
-    - '#C6A39A'
-    - '#917678'
-    - '#FAF4FB'
-    - '#BEBCCF'
-  lightness: 0.296809
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 1
+  lightness: 0.6379929
+  brandStrength: 1
+  brandColors:
+    - '#786443'
+    - '#201616'
+    - '#5B769B'
+    - '#E03142'
+    - '#D79966'
+  rhythmicContrast: 1
 typography_spectrum: 0.5573477
+layout_spectrum: 1
 name: Fremen
