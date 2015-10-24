@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.5573477
+color:
+  saturation: 0.739276
+  lightness: 0.296809
+  brandStrength: 1
+  brandColors:
+    - '#22194B'
+    - '#C6A39A'
+    - '#917678'
+    - '#FAF4FB'
+    - '#BEBCCF'
+  rhythmicContrast: 0.6052205
+name: Fremen
