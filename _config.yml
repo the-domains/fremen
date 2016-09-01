@@ -12,6 +12,10 @@ color:
   rhythmicContrast: 1
 layout_spectrum: 1
 name: Fremen
+navigation:
+  - name: google
+    url: www.google.ie
+    type: external
 collections:
   - index:
       path: /
