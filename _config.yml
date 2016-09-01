@@ -1,3 +1,17 @@
+typography_spectrum: 0.5573477
+color:
+  saturation: 1
+  lightness: 0.6379929
+  brandStrength: 1
+  brandColors:
+    - '#786443'
+    - '#201616'
+    - '#5B769B'
+    - '#E03142'
+    - '#D79966'
+  rhythmicContrast: 1
+layout_spectrum: 1
+name: Fremen
 collections:
   - index:
       path: /
@@ -10,17 +24,4 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 1
-  lightness: 0.6379929
-  brandStrength: 1
-  brandColors:
-    - '#786443'
-    - '#201616'
-    - '#5B769B'
-    - '#E03142'
-    - '#D79966'
-  rhythmicContrast: 1
-typography_spectrum: 0.5573477
-layout_spectrum: 1
-name: Fremen
+title: ddd
